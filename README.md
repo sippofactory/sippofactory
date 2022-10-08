@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sippofactory
+- 👀 I’m interested in programming (.NET/javascript/Kotlin), stock trading, diy, travel
+- 🌱 I’m currently learning (.NET6/javascript/CFD trading)
+- 💞️ I’m looking to collaborate on securities company
+- 📫 How to reach me https://twitter.com/sippofactory
